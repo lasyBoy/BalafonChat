@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        //3 er changement
+        //4 er changement
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
